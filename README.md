@@ -16,6 +16,8 @@ manager performance, and sales trends.
    
 **Dashboard**
 
+<img width="1411" height="821" alt="Screenshot 2026-09-21 201323" src="https://github.com/user-attachments/assets/7ef335b8-9094-4e1a-8759-f10e8d454e46" />
+
 <img width="1343" height="792" alt="Screenshot 2026-10-01 115153" src="https://github.com/user-attachments/assets/3bd87a5e-58b0-443f-ba10-87c786679673" />
 
 The dashboard provides an interactive overview of restaurant sales performance using KPIs, charts, 

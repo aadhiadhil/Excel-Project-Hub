@@ -1,4 +1,4 @@
-Project Overview
+**Project Overview**
 
 This project analyzes restaurant sales transaction data using Microsoft Excel. The dataset contains 
 information such as Order ID, Date, Product, Price, Quantity, Total Sales, Purchase Type, Payment 
@@ -6,20 +6,23 @@ Method, Manager, and City.
 The data was cleaned and analyzed to identify sales patterns, product performance, city-wise sales, 
 manager performance, and sales trends.
 
-Business Questions
+**Business Questions**
+
 1. Which product generates the highest sales revenue?
 2. Which product has the highest quantity sold?
 3. Which city has the highest sales performance?
 4. How does sales revenue change over time?
 5. Which manager generates the highest sales revenue?
    
-Dashboard
+**Dashboard**
+
 <img width="1343" height="792" alt="Screenshot 2026-10-01 115153" src="https://github.com/user-attachments/assets/3bd87a5e-58b0-443f-ba10-87c786679673" />
 
 The dashboard provides an interactive overview of restaurant sales performance using KPIs, charts, 
 and slicers. Users can filter the analysis by month and product to explore the data. 
 
-KPI Cards
+**KPI Cards**
+
 Total Revenue: Displays the total sales revenue generated from restaurant transactions.
 Average Revenue: Shows the average revenue generated per order.
 Total Orders: Shows the total number of orders placed.
@@ -27,7 +30,8 @@ Total Quantity Sold: Displays the total number of food items sold.
 Top City: Highlights the city with the highest sales revenue.
 Top Manager: Highlights the manager with the highest sales performance.
 
-Slicers / Filters
+**Slicers / Filters**
+
 • Month: Filters the entire dashboard to a selected month.
 • Product: Filters the dashboard by product category, such as Beverages, Burgers, Chicken 
 Sandwiches, Fries, and Sides & Other.
@@ -37,7 +41,8 @@ Online.
 • Payment Method: Filters the analysis by payment method, such as Cash, Credit Card, and 
 Gift Card.
 
-Charts
+**Charts**
+
 • Sales Trend by Month: Shows how total sales revenue changes over time and helps 
 identify high- and low-sales periods.
 • Sales on City: Compares total sales across different cities and helps identify city-wise sales 
@@ -48,14 +53,16 @@ performance.
 purchase types using a doughnut chart.
 • Product Quantity: Compares the total quantity sold for each product category.
 
- Key Findings
+**Key Findings**
+
 • Burgers generate the highest sales revenue among the products.
 • Beverages have the highest quantity sold.
 • Lisbon records the highest sales among the cities shown in the analysis.
 • Sales revenue varies across different dates/months.
 • Manager sales performance varies across the managers.
 
-Recommendations
+**Recommendations**
+
 • Promote high-revenue products through special offers and combo deals.
 • Use beverage promotions to increase revenue from the high-volume beverage category.
 • Focus marketing efforts on cities with stronger sales performance.

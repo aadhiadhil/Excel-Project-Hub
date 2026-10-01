@@ -20,6 +20,7 @@ manager performance, and sales trends.
 The dashboard provides an interactive overview of restaurant sales performance using KPIs, charts, 
 and slicers. Users can filter the analysis by month and product to explore the data. 
 
+
 **KPI Cards**
 
 Total Revenue: Displays the total sales revenue generated from restaurant transactions.

@@ -1,4 +1,5 @@
 Project Overview
+
 This project analyzes restaurant sales transaction data using Microsoft Excel. The dataset contains 
 information such as Order ID, Date, Product, Price, Quantity, Total Sales, Purchase Type, Payment 
 Method, Manager, and City.
